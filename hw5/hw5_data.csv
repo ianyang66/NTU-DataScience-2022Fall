@@ -1,0 +1,21 @@
+Customer ID ,Gender ,Car Type ,Shirt Size ,Class 
+1,M ,Family ,Small ,C0 
+2,M ,Family ,Medium ,C0 
+3,M ,Family ,Extra Large ,C0 
+4,M ,Sports ,Extra Large ,C0 
+5,M ,Family ,Large ,C0 
+6,M ,Family ,Extra Large ,C0 
+7,M ,Luxury ,Extra Large ,C0 
+8,F ,Family ,Small ,C0 
+9,F ,Family ,Medium ,C0 
+10,F ,Luxury ,Large ,C0 
+11,F ,Luxury ,Large ,C0 
+12,M ,Sports ,Medium ,C1 
+13,M ,Sports ,Large ,C1 
+14,M ,Sports ,Medium ,C1 
+15,F ,Sports ,Small ,C1 
+16,F ,Luxury ,Small ,C1 
+17,F ,Luxury ,Small ,C1 
+18,F ,Sports ,Medium ,C1 
+19,F ,Luxury ,Medium ,C1 
+20,F ,Luxury ,Medium ,C1 
